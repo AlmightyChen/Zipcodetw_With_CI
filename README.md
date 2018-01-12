@@ -33,6 +33,6 @@
 
 最後感謝 Zipcodetw 的 作者 Mosky 拯救芸芸眾生
 
-Zipcodetw : [http://zipcode.mosky.tw/about](http://zipcode.mosky.tw/about)
+Zipcodetw : [http://zipcode.mosky.tw/about](http://zipcode.mosky.tw)
 
 Zipcodetw Github : [https://github.com/moskytw/zipcodetw](https://github.com/moskytw/zipcodetw)
